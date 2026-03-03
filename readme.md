@@ -7,7 +7,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-f55036)
-![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## Screenshot
+
+![Emojify Demo](./frontend/public/demo.png)
 
 ---
 
